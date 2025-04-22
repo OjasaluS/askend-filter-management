@@ -1,7 +1,7 @@
 # Askend Filter system test work
--Used symfony docker with caddy and frankenphp in order to boot it in docker.
--PostgreSQL for database
--React for frontend
+- Used symfony docker with caddy and frankenphp in order to boot it in docker.
+- PostgreSQL for database
+- React for frontend
 
 ### How to boot up the program
 1. Launch Docker
